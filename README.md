@@ -8,6 +8,4 @@ and include the licenses in a way that seems reasonable.
 
 ## SOICbite
 
-As of including, this has no license, but I do have permission from the author.
-
 https://github.com/SimonMerrett/SOICbite
