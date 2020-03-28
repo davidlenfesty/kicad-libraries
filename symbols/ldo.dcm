@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5528(MT)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5528-High-Performance-500mA-LDO-in-Thin-and-Extra-Thin-DFN-Packages-DS20005982B.pdf
+$ENDCMP
+#
+#End Doc Library
